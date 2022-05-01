@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oktara_react_gh/static/css/main.47d27023.css",
+    "main.js": "/oktara_react_gh/static/js/main.452a4082.js",
+    "index.html": "/oktara_react_gh/index.html",
+    "main.47d27023.css.map": "/oktara_react_gh/static/css/main.47d27023.css.map",
+    "main.452a4082.js.map": "/oktara_react_gh/static/js/main.452a4082.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47d27023.css",
+    "static/js/main.452a4082.js"
+  ]
+}
